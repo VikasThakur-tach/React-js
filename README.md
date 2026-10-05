@@ -1,2 +1,2 @@
 # React-js
-React learning j
+React learning in JavaScript
